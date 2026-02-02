@@ -1,0 +1,14 @@
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+frontend/.env*
+
+# Backend
+backend/target/
+backend/.mvn/
+backend/*.jar
+
+# Misc
+.DS_Store
+*.log
